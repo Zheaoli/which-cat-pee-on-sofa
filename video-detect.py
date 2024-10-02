@@ -67,7 +67,6 @@ def process_video(
     cap.release()
 
 
-# 主函数
 def main():
     video_path = "demo.mp4"
     roi1 = (563, 321, 1327, 682)
